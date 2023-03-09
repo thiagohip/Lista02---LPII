@@ -1,4 +1,4 @@
-//Thiago Hipoĺito Moreira - Lista 02 - Questão 04
+//Thiago Hipoĺito Moreira - Lista 02 - Questão 06
 
 #include <iostream>
 
@@ -22,7 +22,7 @@ int main()
 
     for(int i = 0; i < lenv; i++){
         if(v[i] == n){
-            cout << "O valor foi encontrado na posição " << i;
+            cout << "O valor foi encontrado na posição " << i << endl;
             flag++;
         }
     }
